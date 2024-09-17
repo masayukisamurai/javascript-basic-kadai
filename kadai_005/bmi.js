@@ -6,4 +6,6 @@ let height;
 
 height = 1.7;
 
-console.log(body / (height * height));
+let bmi = body / (height * height);
+
+console.log(bmi);
