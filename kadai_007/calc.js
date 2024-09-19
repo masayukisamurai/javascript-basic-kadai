@@ -1,4 +1,4 @@
-let num = Math.floor(Math.random() * 16);
+let num = Math.floor(Math.random() * 15) + 1;
 
 console.log(num);
 
